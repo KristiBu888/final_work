@@ -1,0 +1,15 @@
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\final_work\bin\Debug\net6.0\final_work.exe
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\final_work\bin\Debug\net6.0\final_work.deps.json
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\final_work\bin\Debug\net6.0\final_work.runtimeconfig.json
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\final_work\bin\Debug\net6.0\final_work.dll
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\final_work\bin\Debug\net6.0\final_work.pdb
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\final_work\obj\Debug\net6.0\final_work.csproj.AssemblyReference.cache
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\final_work\obj\Debug\net6.0\final_work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\final_work\obj\Debug\net6.0\final_work.AssemblyInfoInputs.cache
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\final_work\obj\Debug\net6.0\final_work.AssemblyInfo.cs
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\final_work\obj\Debug\net6.0\final_work.csproj.CoreCompileInputs.cache
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\final_work\obj\Debug\net6.0\final_work.dll
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\final_work\obj\Debug\net6.0\refint\final_work.dll
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\final_work\obj\Debug\net6.0\final_work.pdb
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\final_work\obj\Debug\net6.0\final_work.genruntimeconfig.cache
+D:\Видео\Инструкции\website developer\Разработчик\1 четверть\final_work\obj\Debug\net6.0\ref\final_work.dll
